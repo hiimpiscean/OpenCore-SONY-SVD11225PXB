@@ -34,4 +34,4 @@
 
 ## To-do
 
-- Check TB3 port (no device to test)
+- (none)
