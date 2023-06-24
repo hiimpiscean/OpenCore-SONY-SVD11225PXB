@@ -16,7 +16,7 @@
 | Integrated Graphics | Intel HD Graphics 4000      |
 | Monitor             | FHD 1920x1080 touchscreen (13.7" - Broken, not tested) |
 | Sound Card          | Realtek ALC275          |
-| Wireless Card       | Intel Centrino Advanced-N 6375 + Bluetooth |
+| Wireless Card       | Intel Centrino Advanced-N 6235 + Bluetooth |
 | Ethernet Card       | Realtek PCIe Gigabit Ethernet |
 
 ## Misc after install:
