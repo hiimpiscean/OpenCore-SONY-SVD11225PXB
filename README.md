@@ -22,7 +22,7 @@
 ## Misc after install:
 - Use ssdtPRgen tool to generate power management SSDT.
 - Rename bootmgfw.efi file to bootmgfw.efi_ for dual-booting OpenCore.
-- For wifi: install to /Library/Extensions, require disabling csrutil first (Cannot inject due to OpenCore throws prelink error).
+- For wifi: install to /Library/Extensions, requires disabling csrutil first (Cannot inject due to OpenCore throws prelink error).
 
 ## Current Status
 
