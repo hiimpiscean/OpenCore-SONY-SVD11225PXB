@@ -2,7 +2,7 @@
 
 ## Images
 
-(Add image here)
+![Screen Shot 2023-06-25 at 22 34 25](https://github.com/hiimpiscean/OpenCore-SONY-SVD11225PXB/assets/106610508/f5063b47-fa4b-4c0d-8122-c443510b9b72)
 
 ## Configuration
 
@@ -22,6 +22,7 @@
 ## Misc after install:
 - Use ssdtPRgen tool to generate power management SSDT.
 - Rename bootmgfw.efi file to bootmgfw.efi_ for dual-booting OpenCore.
+- For wifi: install to /Library/Extensions, require disabling csrutil first (Cannot inject due to OpenCore throws prelink error).
 
 ## Current Status
 
@@ -34,4 +35,4 @@
 
 ## To-do
 
-- (none)
+- Touchscreen testing (my laptop has its display broken thus cannot test).
