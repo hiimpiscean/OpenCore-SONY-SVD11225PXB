@@ -14,7 +14,7 @@
 | SSD                 | MSATA 256GB PM841 MZMTD256HAGM |
 | OS                  | macOS Catalina 10.15.7 + Windows 10 |
 | Integrated Graphics | Intel HD Graphics 4000      |
-| Monitor             | FHD 1920x1080 touchscreen (13.7" - Broken, not tested) |
+| Monitor             | FHD 1920x1080 touchscreen (11.6" - Broken, not tested) |
 | Sound Card          | Realtek ALC275          |
 | Wireless Card       | Intel Centrino Advanced-N 6235 + Bluetooth |
 | Ethernet Card       | Realtek PCIe Gigabit Ethernet |
